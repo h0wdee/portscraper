@@ -1,10 +1,7 @@
 # portscraper
 
-Csjdf;lkjsdf;lakjsdf;lkajsdf;lkajsdfurernlty only compatable for linux. 
-
-
-## Install
+### Install
 `./linux_install.sh`
 
-## Usage
+### Usage
 `usage: portscraper <port>`
