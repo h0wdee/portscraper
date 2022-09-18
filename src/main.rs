@@ -1,7 +1,5 @@
-// use html2text;
 use scraper::{Html, Selector};
 use std::{env, error, process};
-// use term_size;
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn error::Error>> {
