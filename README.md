@@ -1,5 +1,7 @@
 # portscraper
 
+![](./portscraper_example.png)
+
 ### Install
 `./linux_install.sh`
 
